@@ -71,3 +71,17 @@ Go (Golang) is often compared to other technologies due to its distinct advantag
     Go excels in building high-performance, concurrent, and scalable applications.
     It's a strong choice for microservices, DevOps, cloud-native applications, and network programming.
     Go may not be the best choice for data science, machine learning, or front-end development, where languages like Python and JavaScript/TypeScript have more mature ecosystems.
+
+# 
+1. General Purpose Language
+2. Great Backend Language
+3. Excels at Concurrency
+4. Easy to Understand
+5. Many built in features
+6. Strong Typing
+7. Memory Freed Automatically
+8. Fast complile Times
+9. Cross platform 
+10. Focus on simplicity clarity & scalability
+11. High performance & focus on concurrency
+12. Static typing 
